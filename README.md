@@ -8,6 +8,7 @@ A very simple userscript to automatically expand Youtube video descriptions with
 * Just click [this link](https://github.com/makise-homura/auto-expand-youtube-descriptions/raw/master/auto-expand-youtube-descriptions.user.js), it will install user script to your Greasemonkey/Tampermonkey.
 * Now, if you open any Youtube video, its description will be automatically expanded, and you won't need to click a link to expand it.
 * You may configure things like auto-update and other stuff in your Greasemonkey/Tampermonkey menu.
+* If you wish to auto-expand comments in addition to descriptions, uncomment such lines in the script code in Greasemonkey/Tampermonkey editor.
 
 ## Contributing
 
